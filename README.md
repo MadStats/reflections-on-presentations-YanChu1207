@@ -63,3 +63,63 @@ What were aspects of the presentation that you liked: I like everything because 
 
 What were aspects of the presentations for which you had concerns or questions:
 
+
+
+
+
+Title of presentation: Gaming
+
+What were aspects of the presentation that you liked: interpretation of factors.
+
+What were aspects of the presentations for which you had concerns or questions: so many assumptions in this model that in the real competition, maybe we could not have a good prediction with a small number of games.
+
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: compare two differnet techniques
+
+What were aspects of the presentations for which you had concerns or questions: Overfitting issue.
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked: data visulazation
+
+What were aspects of the presentations for which you had concerns or questions: not enough predictors in model maybe the reason that prediction performance of this model is not good enough.
+
+
+
+
+
+Title of presentation: Songs
+
+What were aspects of the presentation that you liked: romatic style and dynamic plot of words!!!
+
+What were aspects of the presentations for which you had concerns or questions: assumption is strange.
+
+
+
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: plot interpretation.
+
+What were aspects of the presentations for which you had concerns or questions: two hypothesis are not mutually independent and the union of two hypothesis is not the whole space.
+
+
+
+
+
+
+
+Title of presentation: Terrorism
+
+What were aspects of the presentation that you liked: global perspective of the model.
+
+What were aspects of the presentations for which you had concerns or questions: Did you guys consider the difference between terrorists from different counties? And did you guys just assume there is no significanly influnce between each event?
